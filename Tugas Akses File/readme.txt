@@ -1,0 +1,2 @@
+- Sistem ini dibuat pada xampp portable versi 1.8.1
+- Folder conf yang se-level dengan folder htdocs digunakan untuk menyimpan file konfigurasi dan file user
